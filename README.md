@@ -13,10 +13,9 @@ pip install -r requirements.txt
 ## Preprocess
 From command line prompt, 
 ```bash
-cd notebooks
 jupyter notebook
 ```
-Run preprocess notebook
+Run preprocess notebook with preprocess.ipynb file.
 
 ## From original sasrec_pytorch
 update, with few lines of manually initialization code added, it converges as fast as tf version. BTW, I strongly recommend checking issues for the repo from time to time for knowing new updates and details :)
