@@ -1,3 +1,24 @@
+# sasrec_pytorch for ss project
+Sasrec_pytorch model for ss project. Including original sasrec_pytorch code, add several data preprocessing code to apply on customized project. 
+
+## How to start
+Before starting to run the code, recommend to use virtualenv to separate running environemnt from other projects.
+Please refer to [virtualenv introduction](https://medium.com/@dan_kim/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-pip-%EA%B7%B8%EB%A6%AC%EA%B3%A0-virtualenv-%EC%86%8C%EA%B0%9C-a53512fab3c2) 
+### Install the required libraries
+From command line prompt,
+```bash
+pip install -r requirements.txt
+```
+
+## Preprocess
+From command line prompt, 
+```bash
+cd notebooks
+jupyter notebook
+```
+Run preprocess notebook
+
+## From original sasrec_pytorch
 update, with few lines of manually initialization code added, it converges as fast as tf version. BTW, I strongly recommend checking issues for the repo from time to time for knowing new updates and details :)
 
 ---

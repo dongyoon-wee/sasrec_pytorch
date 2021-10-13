@@ -1,0 +1,11 @@
+Inform|Process
+-WET PM PARTS 확인완료|1
+-QUARTZ 실물 확인완료|2
+>플렉시블라인 수급요청|3
+-CKD 재사용|4
+T/C 교체필요|5
+-FLANGE, 배관 확인완료|6
+-WET PM 전환완료|7
+-PARTS 자동청구완료|8
+-TEMP DOWN 진행 중|9
+-3WAY VALVE 교체예정|10
